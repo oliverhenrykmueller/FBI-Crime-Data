@@ -1,0 +1,26 @@
+FBI Crime Project
+
+
+1.Plotting: 
+
+-Tabelle von zwei variablen
+
+[mord(x1-mal),(x2-mal)diebstahl,(x3-mal)raub,...]
+[nebenstraße(y1-mal),hauptstrasse(y2-mal),zuhause(y3-mal),...]
+
+
+mord		|		3			4			14
+diebstahl	|		13			7			0
+raub		|		10			3			9
+			|___________________________________
+				nebnstr.	hauptstr.	zuhause
+
+
+ -> eher besser eine tabelle daraus als plot
+
+
+-Plotten von einer Variable nach time
+
+Wie oft ist x in einer Zeit y
+
+
